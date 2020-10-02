@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: cornsilk;
+}
+
+div {
+    margin-left: 40%;
+}
+
+li {
+    list-style-type: none;
+    width: 500px;
+    height: 40px;
+    background-color: violet;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
